@@ -65,7 +65,7 @@
 
 <h3><b>Align-items Visualization :</b></h3>
 
-<img src="Align-items.svg" alt="visualization of the align items">
+<img src="align-items.svg" alt="visualization of the align items">
 
 <p>Code exemple:</p>
 
