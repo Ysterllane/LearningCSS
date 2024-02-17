@@ -47,7 +47,7 @@
 
 <p>It´s the model of margin, border, padding and text that we can see in the broser with the F12 commad</p>
 
-<img src="Box Model.png" alt="Box Model">
+<img src="Box Model.PNG" alt="Box Model">
 
 <h2>Flexbox:</h2>
 
