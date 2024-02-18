@@ -1,3 +1,8 @@
+body{
+    background-color: black;
+    color:whitesmoke;
+}
+
 .pinkText{
     color:lightpink;
 }
@@ -8,4 +13,9 @@
 
 .blueText{
     color:cornflowerblue;
+}
+
+a{
+    text-decoration: none;
+    color:aqua;
 }
